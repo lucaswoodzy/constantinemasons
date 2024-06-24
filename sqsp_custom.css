@@ -7,15 +7,14 @@
   
   .header-nav:before {
         display:block;
-      content: "Constantine Masons";
+      content: "The Masonic and Military Order \a of the \A Red Cross of Constantine";
     position:relative;
        color: white;
     -webkit-text-fill-color: #7877e6;
     -webkit-text-stroke: 0px;   font-weight: bold;
-  
      font-size: 3rem;
     text-shadow: 1px 2px 3px black;
-    text-align:center;
+    text-align:centre;
     padding-bottom: 1vw !important;
       padding-top: 1vw !important;
   }
