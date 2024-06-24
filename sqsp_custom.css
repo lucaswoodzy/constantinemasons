@@ -1,0 +1,31 @@
+#block-5a5fb9364a880eea6e48 {
+    background: rgba(0,0,0,0.8);
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    border-radius: 25px;
+  }
+  
+  .header-nav:before {
+        display:block;
+      content: "Constantine Masons";
+    position:relative;
+       color: white;
+    -webkit-text-fill-color: #7877e6;
+    -webkit-text-stroke: 0px;   font-weight: bold;
+  
+     font-size: 3rem;
+    text-shadow: 1px 2px 3px black;
+    text-align:center;
+    padding-bottom: 1vw !important;
+      padding-top: 1vw !important;
+  }
+  .header-nav  {
+    
+      text-shadow: 2px 2px 3px black;
+        
+  
+  }
+  
+  #block-yui_3_17_2_1_1705017305044_1809
+   { filter: drop-shadow(10px 10px 10px black); 
+  }
